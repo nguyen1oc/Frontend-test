@@ -6,8 +6,14 @@
 2. Navigate to the project directory:
    ```bash
    cd Frontend-test
-## Detail
-In this project, i was using ReactJS with TailwindCSS supportm so you have to download it before the running the application
-All information about them:
-1. [https://tailwindcss.com/docs/guides/vite](https://tailwindcss.com/docs/guides/vite)
-2. [https://nodejs.org/en](https://nodejs.org/en)
+## Prerequisites
+This project uses ReactJS with TailwindCSS for styling. Before running the application, ensure you have the following installed:
+
+1. Node.js: This is required to manage the project dependencies.
+
+Download and install Node.js from here.
+2. TailwindCSS: For styling, TailwindCSS is used. You can set it up by following the guide provided in the link below:
+
+(TailwindCSS setup with Vite)[https://tailwindcss.com/docs/guides/vite]
+Once these tools are installed, follow the remaining setup instructions to get your application running.
+
