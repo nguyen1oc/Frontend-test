@@ -48,7 +48,7 @@ Change to the project directory using the following command::
   npm run dev
   ```
 
-This will start the application, and you should be able to view it in your browser at http://localhost:5137.
+This will start the application, and you should be able to view it in your browser at http://localhost:5137/albums.
 And this is the link demo of the project: https://youtu.be/VFNjyLJSESU
 
 ## Sources
