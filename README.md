@@ -26,23 +26,23 @@ Once you have the prerequisites installed, follow these steps to set up the proj
 
 In your terminal, run the following command to clone the repository:
 
-```bash
-git clone https://github.com/nguyen1oc/Frontend-test
+  ```bash
+  git clone https://github.com/nguyen1oc/Frontend-test
 
 ### 2. Navigate to the project directory
 Change to the project directory using the following command::
 
-```bash
-cd Frontend-test
+  ```bash
+  cd Frontend-test
 
 ### 3. Instal dependencies
 
-```bash
-npm install
+  ```bash
+  npm install
 
 ### 4. Run the application
 
-```bash
-npm run dev
+  ```bash
+  npm run dev
 
 This will start the application, and you should be able to view it in your browser at http://localhost:5137
