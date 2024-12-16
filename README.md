@@ -2,7 +2,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   [https://github.com/nguyen1oc/Frontend-test.git](https://github.com/nguyen1oc/Frontend-test)
+   git clone https://github.com/nguyen1oc/Frontend-test
 2. Navigate to the project directory:
    ```bash
    cd Frontend-test
