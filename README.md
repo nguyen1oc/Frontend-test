@@ -50,3 +50,8 @@ Change to the project directory using the following command::
 
 This will start the application, and you should be able to view it in your browser at http://localhost:5137.
 And this is the link demo of the project: https://youtu.be/VFNjyLJSESU
+
+## Sources
+Websites for fake data are:
+1. https://jsonplaceholder.typicode.com/
+2. https://ui-avatars.com/
